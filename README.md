@@ -8,7 +8,6 @@ This project aims to predict loan approval based on a customer’s profile using
 
 ## Table of Contents
 
-- [Project Setup](#project-setup)
 - [Data Preprocessing](#data-preprocessing)
 - [Feature Engineering](#feature-engineering)
 - [Model Training](#model-training)
@@ -18,24 +17,6 @@ This project aims to predict loan approval based on a customer’s profile using
 - [Prediction and User Interface](#prediction-and-user-interface)
 - [Requirements](#requirements)
 - [License](#license)
-
----
-
-## Project Setup
-
-### 1. Clone the Repository
-
-The first step is to clone the repository onto your local machine. This allows you to access all the project files and run them on your computer.
-
-1. Open your terminal (or command prompt).
-2. Clone the repository using the `git clone` command.
-3. Change into the project directory.
-
-### 2. Install Dependencies
-
-Before running the project, install all the necessary Python libraries. The project relies on libraries like **pandas**, **sci-kit-learn**, and others. It is recommended to create a **virtual environment** for this purpose to keep dependencies isolated.
-
-1. Use a package manager like `pip` to install the dependencies listed in the `requirements.txt` file.
 
 ---
 
